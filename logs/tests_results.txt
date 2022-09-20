@@ -1,0 +1,10 @@
+test_average (__main__.TestExercice) ... ok
+test_bills (__main__.TestExercice) ... ok
+test_dissipated_power (__main__.TestExercice) ... ok
+test_format_base (__main__.TestExercice) ... ok
+test_orthogonal (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
